@@ -15,7 +15,7 @@ It uses **Logistic Regression**, handles class imbalance using **undersampling**
 * 💾 **Model persistence** using Pickle
 * 🌐 **Interactive web interface** using Streamlit
 * 📊 **Real-time prediction with fraud probability score**
-
+  
 ---
 
 ## 🛠️ Tech Stack
