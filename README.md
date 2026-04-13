@@ -57,8 +57,8 @@ fraud_detection/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/fraud_detection.git
-cd fraud_detection
+[git clone https://github.com/your-username/fraud_detection.git
+cd fraud_detection](https://github.com/Durga6105/Credit-Card-Fraud-Detection-System)
 ```
 
 ### 2️⃣ Create Virtual Environment
